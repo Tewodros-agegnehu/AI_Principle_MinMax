@@ -1,0 +1,4 @@
+# No external dependencies - Python 3.8+ standard library only.
+# Optional: for type checking or formatting during development
+# mypy>=1.0.0
+# black>=23.0.0
