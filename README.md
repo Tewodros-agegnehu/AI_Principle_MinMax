@@ -45,7 +45,7 @@ python main.py
 - **Human–agent interaction**: CLI for valid human input and display of the board after each move.
 - **Game termination**: Correct detection of win, loss, and draw with clear outcome messages.
 
-### Optional (Bonus)
+### Optional 
 
 - **Alpha–Beta pruning**: Used by default to reduce the number of nodes expanded.
 - **Starting player**: Option to let the human or the AI play first.
